@@ -1,6 +1,6 @@
 # Project Setup Guide
 
-This document explains how to get started with the project and configure the required global settings. This setup is required to enable core features such as transcript extraction, video scoring, voiceover generation, and YouTube API interaction.
+This document outlines the steps to get started with the project and configure the necessary global settings. This setup is required to enable core features such as transcript extraction, video scoring, voiceover generation, and YouTube API interaction.
 
 ---
 
@@ -21,7 +21,7 @@ Before starting, ensure you have the following:
 
 ## 2. Globals Configuration
 
-Your project must define a **Globals** cell or module. This holds all key configurations.
+The Cloab has a **Globals** cell or module. This holds all key configurations. Please refer to it. An example of what that cell looks like is below. 
 
 ### Example Global Configuration
 
